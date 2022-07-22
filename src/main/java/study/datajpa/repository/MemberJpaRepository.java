@@ -5,6 +5,7 @@ import study.datajpa.entity.Member;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
+import java.lang.reflect.Member;
 import java.util.List;
 import java.util.Optional;
 
